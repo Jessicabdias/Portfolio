@@ -18,7 +18,7 @@ GitHub: plataforma para armazenamento e compartilhamento do código.
 
 ## 🌐 Link do site publicado
 
-Acessar meu portfólio
+[Acessar meu portfólio] (https://jessicabdias.github.io/Portfolio/)
 
 ## ⚙️ Funcionamento do projeto
 
